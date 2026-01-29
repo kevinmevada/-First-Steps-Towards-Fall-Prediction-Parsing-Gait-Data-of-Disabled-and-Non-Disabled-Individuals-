@@ -205,3 +205,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# ----------------------------
+# Research datasets (DO NOT COMMIT)
+# ----------------------------
+Dataset_Gait/
+*.mat
+*.csv
+artifacts/

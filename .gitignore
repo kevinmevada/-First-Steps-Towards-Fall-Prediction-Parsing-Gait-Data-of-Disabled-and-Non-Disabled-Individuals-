@@ -209,7 +209,7 @@ __marimo__/
 # ----------------------------
 # Research datasets (DO NOT COMMIT)
 # ----------------------------
-Dataset_Gait/
+
 *.mat
 *.csv
 artifacts/

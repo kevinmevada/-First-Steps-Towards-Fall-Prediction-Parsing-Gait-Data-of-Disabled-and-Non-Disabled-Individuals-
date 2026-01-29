@@ -1,0 +1,11 @@
+# Dataset Notice
+
+This repository does NOT include the gait dataset due to its large size and research licensing restrictions.
+
+The dataset used for this project (Gait-based Fall Prediction and Anomaly Detection) can be downloaded from:
+
+https://www.nature.com/articles/s41597-023-02767-y
+
+After downloading, place the dataset files inside the following directory:
+
+Dataset_Gait/

@@ -165,7 +165,7 @@ If you use this work in your research, please cite:
 @software{mevada2024_fall_prediction,
   title={First Steps Towards Fall Prediction Using Gait Data},
   author={Mevada, Kevin},
-  year={2024},
+  year={2026},
   publisher={GitHub},
   howpublished={\url{https://github.com/kevinmevada/First-Steps-Towards-Fall-Prediction}}
 }
